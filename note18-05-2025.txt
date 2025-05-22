@@ -1,0 +1,58 @@
+HTMl - content
+meaning -
+Hypertext Markup Language
+
+CSS
+3 types of css
+inline-code html- code css
+internal- html code- page
+external- df---file
+
+css syntex
+	h1- content
+	 selector {
+	 properties: values;}
+
+	 tag/element selector - h2, img, h1, p
+	 class
+	 id
+
+
+
+
+html project
+	project folder
+	file
+		index.html file- .html - home -> index
+		css -
+		js
+		images
+
+template
+
+	<!doctype html>
+	<html>
+		<head></head> 
+		<body></body> 
+	</html>
+
+news
+	heading - title
+	desc    - text
+	image
+		cdn
+		file
+
+	img
+	scr=""
+	alt=""
+css
+3 types of css
+inline
+internal
+external
+	
+
+audio
+video
+link
